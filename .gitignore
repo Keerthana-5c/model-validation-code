@@ -7,3 +7,4 @@ cxr_fissural_finetuned_model.zip
 cxr_image.zip
 env/
 test_models/validation/results/
+pwd.env
