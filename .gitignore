@@ -1,0 +1,9 @@
+cxr_images_set1/
+cxr_images_set2/
+cxr_images_set3/
+cxr_images/
+consolidation_best_model.zip
+cxr_fissural_finetuned_model.zip
+cxr_image.zip
+env/
+test_models/validation/results/

@@ -1,0 +1,5 @@
+WHERE hil_pathology ~* '(Pneumoperitoneum|Scapula Fracture|Humerus Fracture|Bifid Rib|Lung Mass|Miliary Tuberculosis| Flattened Diaphragm |Old Rib Fracture | Cervical rib)'
+10
+
+(Scoliosis|old clavicle fracture|Subcutaneous Emphysema|Diaphragmatic Hump|Humerus Postop|Pneumoperitoneum|Old Healed Clavicle Fracture|
+
