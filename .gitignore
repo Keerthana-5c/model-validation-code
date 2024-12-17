@@ -8,3 +8,10 @@ cxr_image.zip
 env/
 test_models/validation/results/
 pwd.env
+knee_models/
+query_knee.sql
+validation/csv/
+validation/results/
+validation/utils/Models/detectron/
+validation/utils/Models/detectron2/
+validation/utils/Models/ouput_folder_rjs/
